@@ -4,3 +4,5 @@ class Dog
     @breed = breed
   end
 end
+sammy = Dog.new("max")
+puts sammy.breed
