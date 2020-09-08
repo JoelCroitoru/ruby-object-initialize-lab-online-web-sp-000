@@ -5,4 +5,4 @@ class Dog
   end
 end
 sammy = Dog.new("max")
-puts sammy.name
+puts sammy
